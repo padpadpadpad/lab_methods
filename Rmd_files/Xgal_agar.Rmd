@@ -1,0 +1,38 @@
+---
+title: "Xgal addition to KB agar"
+author: "Daniel Padfield"
+output:
+  html_document:
+    df_print: paged
+  pdf_document:
+    latex_engine: xelatex
+header-includes: \usepackage[fontsize=14pt]{scrextend}
+---
+
+### Outline
+
+Xgal need to be added to KB agar before plating to be able to characterise _lacZ_ mutants of _Pseudomonas fluorescens_ and other bacterial species which turn blue on the plates.
+
+Xgal is dissolved in DMSO before addition to the agar. DMSO is super toxic so this needs to be done under the fume hood.
+
+##### Concentration
+
+300 mg of Xgal is added to 15 mL of DMSO. 4.5 mL of this solution is added to 1 L of agar.
+
+Some common concentrations:
+
+- 1 L of agar : 100 mg Xgal in 5 mL DMSO.
+- 2 L of agar : 200 mg Xgal in 10 mL DMSO.
+- 3 L of agar : 300 mg Xgal in 15 mL DMSO.
+
+##### Method
+
+- Get the Xgal out of the AB freezer (top shelf is the communal shelf).
+- Put foil round a 50 mL falcon tube (Xgal is light sensitive).
+- Measure out the required amount of Xgal on the sensitive scales and place it in the falcon tube.
+- Get the DMSO from the chemicals cabinet (underneath the fume hood) and add the desired amount to the falcon tube using a serological pipette.
+- Add this to agar (not too hot).
+- Shake agar
+- Plate
+
+

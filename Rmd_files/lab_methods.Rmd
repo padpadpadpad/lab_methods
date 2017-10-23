@@ -1,0 +1,53 @@
+---
+title: "Lab Methods"
+author: "Daniel Padfield"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+## Outline
+
+This page is designed to summarise some key methods. To find what you are looking for use `Ctrl-F` (`Cmd-F` on a mac) and search for what you are looking for.
+
+### Xgal addition to KB agar
+
+Xgal need to be added to KB agar before plating to be able to characterise lacz mutants of _Pseudomonas fluorescens_ which turn blue on the plates.
+
+Xgal is dissolved in DMSO before addition to the agar. DMSO is super toxic so this needs to be done under the fume hood.
+
+##### Concentration
+
+300 mg of Xgal is added to 15 mL of DMSO. 4.5 mL of this solution is added to 1 L of agar.
+
+Some common concentrations:
+
+- 1 L of agar : 100 mg Xgal in 5 mL DMSO.
+- 2 L of agar : 200 mg Xgal in 10 mL DMSO.
+- 3 L of agar : 300 mg Xgal in 15 mL DMSO.
+
+##### Method
+
+- Get the Xgal out of the AB freezer (top shelf is the communal shelf).
+- Put foil round a 50 mL falcon tube (Xgal is light sensitive).
+- Measure out the required amount of Xgal on the sensitive scales and place it in the falcon tube.
+- Get the DMSO from the chemicals cabinet (underneath the fume hood) and add the desired amount to the falcon tube using a serological pipette.
+- Add this to agar (not too hot).
+- Shake agar
+- Plate
+
+### Serial dilution for plating
+
+Serial dilution is done get an appropriate concentration at which to plate bacteria
+
+##### Method
+
+- Get the M9 10x concentrate and autoclaved DI water and create a working solution of M9 in a 50 mL falcon tube (5 mL of M9 10x and 45 mL of water)
+- Put 180 µL of M9 into each well of a 96 well plate as necessary
+- Put 20 µl of bacterial culture in each well
+- Mix the culture in the well then transfer to the next row (representing another ten fold dilution)
+- With new pipette tips mix the culture in the next row and then transfer to the next row
+- Dispense of pipette tips
+- Repeat as necessary until all rows have been mixed and desired concentration for plating is achieved
+- __MAKE SURE EACH ROW HAS BEEN TRANSFERRED OTHERWISE THE PLATES WILL HAVE NOTHING ON THEM__
+

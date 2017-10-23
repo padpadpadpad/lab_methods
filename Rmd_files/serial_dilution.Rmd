@@ -1,0 +1,26 @@
+---
+title: "Serial dilution"
+author: "Daniel Padfield"
+output:
+  html_document:
+    df_print: paged
+  pdf_document:
+    latex_engine: xelatex
+header-includes: \usepackage[fontsize=14pt]{scrextend}
+---
+
+### Outline
+
+Serial dilution gets the bacteria/phage at an appropriate concentration at which to plate
+
+##### Method
+
+- Get the M9 10x concentrate and autoclaved DI water and create a working solution of M9 in a 50 mL falcon tube (5 mL of M9 10x and 45 mL of water)
+- Put 180 µL of M9 into each well of a 96 well plate as necessary (using a multichannel pipette)
+- Put 20 µl of bacterial culture in each well of the first row
+- Mix the culture in the well (by pipetting up and down) then transfer to the next row (representing another ten fold dilution)
+- Dispense of pipette tips
+- With new pipette tips mix the culture in the next row and then transfer to the next row
+- Dispense of pipette tips
+- Repeat as necessary until all rows have been mixed and desired concentration for plating is achieved
+- __MAKE SURE EACH ROW HAS BEEN TRANSFERRED OTHERWISE THE PLATES WILL HAVE NOTHING ON THEM__

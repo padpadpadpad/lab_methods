@@ -1,0 +1,32 @@
+---
+title: "Phage spot assay"
+author: "Daniel Padfield"
+output:
+  html_document:
+    df_print: paged
+  pdf_document:
+    latex_engine: xelatex
+header-includes: \usepackage[fontsize=14pt]{scrextend}
+---
+
+### Outline
+
+Phage spot assays allow for the abundance of phage (as plaque forming units, PFUs) to be estimated
+
+### Beforehand
+
+- Prepare some overnight stocks of bacteria
+
+### Method
+
+- Set a water bath to ~50 ºC. Place enough soft agar (~5 mL per plate) into falcon tubes and place to keep warm in the water bath
+- Place plates (with hard agar in) in the hood and make sure they are dry before pouring on soft agar. __This is especially important if the plates have been stored in the cold room.__
+- Place 50 µl of bacteria into a 12 mL centrfuge tube. Use 1 centrifuge tube per plate.
+- Place 5 mL of soft agar into each tube
+- Vortex
+- Pour soft agar onto hard agar plates and let dry
+- In the meantime create a serial dilution of your phage using M9.
+- Pipette 10 µl of your phage dilution onto the plate. Can pipette multiple dilutions onto a single plate just make sure there is enough space between spots.
+- Let dry
+- Place either upside down or not in the incubator
+- __Make sure to know which dilutions were placed where so back calculations of phage abundance can be made retrospectively__
