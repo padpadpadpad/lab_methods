@@ -1,0 +1,36 @@
+---
+title: "KB media recipe"
+author: "Daniel Padfield"
+date: "06/01/2018"
+output:
+  html_document:
+    df_print: paged
+  pdf_document:
+    latex_engine: xelatex
+header-includes: \usepackage[fontsize=14pt]{scrextend}
+---
+
+### Ingredients
+
+
+|To add|Grams/L|
+|-|-|
+|glycerol|10.0 g|
+|peptone|20.0 g|
+|$K_{2}HPO_{4}$|1.5g|
+|30% sterile $MgSO_{4}.7H_{2}O$ solution|5 mL|
+|Agar|0 g (media), 12 g (hard agar), 3.5 g (soft agar)|
+
+- Final pH should be 7.2 +/- 0.2 (@ 25 ºC)
+
+### Method
+
+- Take a 1 L duran bottle and put put in the glycerol, peptone and potassium hydrogen phosphate. Each ingredient should be weighed out on the scales using a weighing boat
+- For KB media, add no agar. For soft agar, add around 3.5 g of agar and for hard agar, add 12 g of agar to the duran bottle
+- Add 500 mL of distilled water and dissolve the ingredients using the magnetic heat plate after putting a magenetic stirrer into the bottle
+- Add the remaining 500 mL of distilled water and continue to stir the media
+- When dissolved, take out the magnetic stirrer
+- Label the duran and autoclave
+- Prior to use, add the 5 mL of 30% sterile $MgSO_{4}.7H_{2}O$ solution. This solution is made by adding 30 g of $MgSO_{4}.7H_{2}O$ to 100 mL of distilled water and autoclaving
+- After mixing the magnesium sulphate solution into the KB agar, your media is ready to use and plates to be poured
+
